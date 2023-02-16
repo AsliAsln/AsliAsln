@@ -12,9 +12,7 @@
   <img align="left" alt="Aslı's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![Visitor Count](https://profile-counter.glitch.me/{AsliAsln}/count.svg)
 <br />
-![](https://visitor-badge.glitch.me/badge?page_id=AsliAsln.AsliAsln)
 ![Visitor Count](https://profile-counter.glitch.me/{AsliAsln}/count.svg)
 
 
