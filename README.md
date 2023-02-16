@@ -11,13 +11,16 @@
 <a href="https://www.linkedin.com/in/aslı-aslan-049583197/">
   <img align="left" alt="Aslı's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br />
+ 
+ <br />
+
 ![Visitor Count](https://profile-counter.glitch.me/{AsliAsln}/count.svg)
 
 
 
 
+<br />
 Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also i am a game design student at Istinye University (3rd grade). 
   <img align="right" alt="GIF" src="https://github.com/AsliAsln/AsliAsln/blob/master/code.gif?raw=true" width="500" height="320" />
   
