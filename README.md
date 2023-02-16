@@ -1,4 +1,7 @@
 ### Hey there! :wave:
+
+<br />
+
 <a href="https://www.instagram.com/aslannasli_/">
   <img align="left" alt="Aslı's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -9,6 +12,8 @@
   <img align="left" alt="Aslı's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
+<br />
 ![](https://visitor-badge.glitch.me/badge?page_id=AsliAsln.AsliAsln)
 
 <br />
@@ -16,8 +21,13 @@
 Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also i am a game design student at Istinye University (3rd grade). 
   <img align="right" alt="GIF" src="https://github.com/AsliAsln/AsliAsln/blob/master/code.gif?raw=true" width="500" height="320" />
   
+  
+<br />
+  
 - 💼 any question ask? do reach, [email](mailto:asliaslan450@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+
+<br />
 
 **Languages and tools:**  
 
@@ -30,6 +40,7 @@ Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also
 
 
 
+<br />
 📈 My github stats
 
  [![Asli's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsliAsln)](https://github.com/AsliAsln/github-readme-stats)
