@@ -36,6 +36,6 @@ Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also
 
 
 
- <a href="https://github.com/AsliAsln/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsliAsln&layout=compact&theme=buefy&hide_border=true" /></a> |
+ <p href="https://github.com/AsliAsln/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsliAsln&layout=compact&theme=buefy&hide_border=true" /></p> |
 
 
