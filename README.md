@@ -1,4 +1,4 @@
-### hey there 
+### Hey there! :wave:
 <a href="https://www.instagram.com/aslannasli_/">
   <img align="left" alt="Aslı's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
