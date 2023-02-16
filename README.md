@@ -51,7 +51,7 @@ Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also
 
  <br />
 
-
+<a href="https://github.com/AsliAsln/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AsliAsln&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Asli's github stats" /></a> | <a href="https://github.com/AsliAsln/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsliAsln&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 
 
 
