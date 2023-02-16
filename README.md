@@ -13,7 +13,7 @@
 
 <br />
 
-hi, i'm Aslı Aslan, a passionate self-taught game developer from india.
+hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye.
   <img align="right" alt="GIF" src="https://github.com/AsliAsln/AsliAsln/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any question ask? do reach, [email](mailto:asliaslan450@gmail.com) :)
