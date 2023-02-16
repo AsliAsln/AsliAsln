@@ -15,6 +15,8 @@
 
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=AsliAsln.AsliAsln)
+![Visitor Count](https://profile-counter.glitch.me/{AsliAsln}/count.svg)
+
 
 <br />
 
