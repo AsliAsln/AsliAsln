@@ -19,7 +19,7 @@ Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also
 - 💼 any question ask? do reach, [email](mailto:asliaslan450@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**Languages and tools:**  
 
 
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
@@ -30,7 +30,7 @@ Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also
 
 
 
-📈 my github stats
+📈 My github stats
 
  [![Asli's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsliAsln)](https://github.com/AsliAsln/github-readme-stats)
  
