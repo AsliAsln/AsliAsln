@@ -48,7 +48,8 @@ Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also
 
   [![Asli's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AsliAsln&hide=javascript,css,scss,html&theme=tokyonight)
 
- 
+ <br />
+
 
 
 
