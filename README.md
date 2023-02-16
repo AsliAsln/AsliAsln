@@ -13,7 +13,7 @@
 
 <br />
 
-hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye.
+Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also i am a game design student at Istinye University (3rd grade). 
   <img align="right" alt="GIF" src="https://github.com/AsliAsln/AsliAsln/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any question ask? do reach, [email](mailto:asliaslan450@gmail.com) :)
@@ -36,4 +36,10 @@ hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye.
 
 
 
+<a href="https://github.com/AsliAsln/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsliAsln&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/AsliAsln/AsliAsln.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsliAsln&repo=AsliAsln.github.io&theme=buefy" />
+</a>
 
