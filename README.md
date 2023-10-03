@@ -2,9 +2,6 @@
 
 <br />
 
-<a href="https://www.instagram.com/aslannasli_/">
-  <img align="left" alt="Aslı's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <a href="discordapp.com/users/762917175564304414">
   <img align="left" alt="Aslı's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
