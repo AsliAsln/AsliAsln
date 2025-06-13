@@ -6,7 +6,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{AsliAsln}/count.svg)
 
 <br />
-Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also i am a game design student at Istinye University (4rd grade). 
+Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also i graduated from game design  at Istinye University. 
   <img align="right" alt="GIF" src="https://github.com/AsliAsln/AsliAsln/blob/master/code.gif?raw=true" width="500" height="320" />
   
   
