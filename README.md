@@ -3,16 +3,11 @@
 <br /> 
  <br />
 
-![Visitor Count](https://profile-counter.glitch.me/{AsliAsln}/count.svg)
-
-<br />
-Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also i graduated from game design  at Istinye University. 
-  <img align="right" alt="GIF" src="https://github.com/AsliAsln/AsliAsln/blob/master/code.gif?raw=true" width="500" height="320" />
   
   
 <br />
   
-- 💼 any question ask? do reach, [email](mailto:asliaslan450@gmail.com) :)
+- 💼 any question to ask?  reach with mail, [email](mailto:asliaslan450@gmail.com) :)
 
 <br />
 
@@ -25,7 +20,6 @@ Hi, i'm Aslı Aslan, a passionate self-taught game developer from Türkiye. Also
 
 
 <br />
-📈 My github stats
 
  <br />
 
